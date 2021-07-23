@@ -1,2 +1,12 @@
-# terraform-class-combined
-Started Class 2
+# Please copy paste below code 
+
+
+```
+module "asg" {
+    source = "mkostiuk98/asg/aws"
+}
+
+```
+
+
+
